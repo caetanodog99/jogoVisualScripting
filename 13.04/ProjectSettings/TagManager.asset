@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - chao
+  - Inimigo
+  - Barreira
+  - Projetil
   layers:
   - Default
   - TransparentFX
